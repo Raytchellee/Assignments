@@ -1,0 +1,46 @@
+#body{
+    background-image: linear-gradient(to right, #24b53a,#05f729);
+    background-color: green;
+    color: #24b53a;
+}
+#login-form{
+    background-color: #fff;
+    width: 400px;
+    height: 300px;
+    padding: 7px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 2px #000;
+}
+input,label{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    /* border-style: hidden; */
+    margin-left: 100px;
+}
+#heading{
+    color: #fff;
+}
+#section{
+    position: absolute;
+    margin-left: 30%;
+}
+
+#submit{
+    width: 100px;
+    height: 40px;
+    padding: 5px;
+    background-color: #24b53a;
+    display: inline-block;
+    color: #fff;
+    border-style: hidden;
+}
+
+#submit:hover{
+  background-color: green;
+}
+a{
+    text-decoration: none;
+    color: #24b53a;
+}

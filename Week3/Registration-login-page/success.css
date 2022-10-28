@@ -1,0 +1,27 @@
+#body{
+    background-image: linear-gradient(to right, #24b53a,#05f729);
+  background-color: green;
+    color: #24b53a;
+}
+#section{
+    background-color: #fff;
+    width: 250px;
+    height: 100px;
+    padding: 7px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 2px #000;
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 40px;
+}
+#successful{
+    font-size: 3em;
+    
+}
+.bold{
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+  color: green;
+}
